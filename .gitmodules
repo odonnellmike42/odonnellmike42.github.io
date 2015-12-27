@@ -1,0 +1,3 @@
+[submodule "numberwang"]
+	path = numberwang
+	url = https://github.com/odonnellmike42/numberwang.git
